@@ -36,7 +36,7 @@ namespace RandomExam
             //    Console.WriteLine($"===> currentRandInt => {currentRandInt}");
             //}
 
-            // generateNewName();
+            //generateNewName();
 
         }
 
@@ -45,7 +45,7 @@ namespace RandomExam
             var rand = new Random();
 
             string[] FirstNames = {
-                "Adam", "Brecon", "Courtney", "Debbie", "Eason"
+                "Adam", "Brecon", "Courtney", "Debbie", "Eagle"
             };
             string[] LastNames = {
                 "McLaws", "Sorenson", "Kinikini", "Harrison", "Gessler"
