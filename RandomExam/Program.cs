@@ -11,8 +11,8 @@ namespace RandomExam
 
             // 範例1
             // 產生一個亂數（整數）
-            //var randInt1 = rand.Next();
-            //Console.WriteLine($"===> rand1 = {randInt1}");
+            var randInt1 = rand.Next();
+            Console.WriteLine($"===> rand1 = {randInt1}");
 
             // 範例2
             // 產生一個亂數（0-99整數)
@@ -36,7 +36,7 @@ namespace RandomExam
             //    Console.WriteLine($"===> currentRandInt => {currentRandInt}");
             //}
 
-            generateNewName();
+            // generateNewName();
 
         }
 
