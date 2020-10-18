@@ -1,0 +1,12 @@
+/Users/karen/Projects/RandomExam/RandomExam/bin/Debug/netcoreapp3.1/RandomExam.deps.json
+/Users/karen/Projects/RandomExam/RandomExam/bin/Debug/netcoreapp3.1/RandomExam.runtimeconfig.json
+/Users/karen/Projects/RandomExam/RandomExam/bin/Debug/netcoreapp3.1/RandomExam.runtimeconfig.dev.json
+/Users/karen/Projects/RandomExam/RandomExam/bin/Debug/netcoreapp3.1/RandomExam.dll
+/Users/karen/Projects/RandomExam/RandomExam/bin/Debug/netcoreapp3.1/RandomExam.pdb
+/Users/karen/Projects/RandomExam/RandomExam/obj/Debug/netcoreapp3.1/RandomExam.csprojAssemblyReference.cache
+/Users/karen/Projects/RandomExam/RandomExam/obj/Debug/netcoreapp3.1/RandomExam.AssemblyInfoInputs.cache
+/Users/karen/Projects/RandomExam/RandomExam/obj/Debug/netcoreapp3.1/RandomExam.AssemblyInfo.cs
+/Users/karen/Projects/RandomExam/RandomExam/obj/Debug/netcoreapp3.1/RandomExam.csproj.CoreCompileInputs.cache
+/Users/karen/Projects/RandomExam/RandomExam/obj/Debug/netcoreapp3.1/RandomExam.dll
+/Users/karen/Projects/RandomExam/RandomExam/obj/Debug/netcoreapp3.1/RandomExam.pdb
+/Users/karen/Projects/RandomExam/RandomExam/obj/Debug/netcoreapp3.1/RandomExam.genruntimeconfig.cache
