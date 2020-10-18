@@ -36,17 +36,27 @@ namespace RandomExam
             //    Console.WriteLine($"===> currentRandInt => {currentRandInt}");
             //}
 
+            generateNewName();
 
         }
 
-        public void getRandomString()
+        public static void generateNewName()
         {
+            var rand = new Random();
+
             string[] FirstNames = {
-                "McLaws", "Sorenson", "Kinikini", "Harrison", "Gessler"
+                "Adam", "Brecon", "Courtney", "Debbie", "Eason"
             };
             string[] LastNames = {
                 "McLaws", "Sorenson", "Kinikini", "Harrison", "Gessler"
             };
+
+            var firstRand = rand.Next(0, 5);
+            var lastRand = rand.Next(0, 5);
+
+            string newName = $"{FirstNames[firstRand]} {LastNames[lastRand]}";
+
+            Console.WriteLine($"===> A new name is \"{newName}\".");
         }
     }
 }
